@@ -3,6 +3,8 @@
 An image gallery of travel destination in Ghana
 
 Reflection
+
+
 Please also provide an assignment reflection in your project README.md file.
 
 Required
